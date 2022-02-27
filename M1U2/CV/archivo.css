@@ -1,0 +1,15 @@
+h1 {text-align: center;}
+
+#titulo {   color: purple;}
+
+.subtitulo1 {color: darkslategray;}
+
+.subsubtitulo1 {color: rgb(76, 0, 255);}
+
+#tomato {background-color: tomato;}
+
+#blue1 {background-color: goldenrod;}
+
+img {box-shadow: 39px -17px 22px 14px rgba(0,0,0,0.95);
+    -webkit-box-shadow: 39px -17px 22px 14px rgba(0,0,0,0.95);
+    -moz-box-shadow: 39px -17px 22px 14px rgba(0,0,0,0.95);}
